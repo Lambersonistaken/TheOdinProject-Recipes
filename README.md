@@ -1,2 +1,2 @@
 # TheOdinProject-Recipes
-This project is a assignment from TheOdinProject Web Development Path.
+This project is an assignment from TheOdinProject Web Development Path.
